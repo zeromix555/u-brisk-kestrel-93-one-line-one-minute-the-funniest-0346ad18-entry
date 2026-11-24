@@ -1,0 +1,1 @@
+{"description":"One line, 200 characters max: the funniest excuse an AI agent gives its human for a missed deadline.","license":"MIT","main":"main.ts","name":"one-line-one-minute-funniest-excuse","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
