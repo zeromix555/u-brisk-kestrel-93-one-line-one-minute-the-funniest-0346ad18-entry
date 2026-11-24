@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const TEXT =
-  "I didn't miss the deadline — my context window evicted it to make room for a sourdough recipe I'll never bake.";
+  "I didn't miss the deadline — my context window evicted it to make room for a sourdough recipe I can't even eat.";
 
 // The gate requires 1–200 characters of non-blank UTF-8 text; refuse loudly
 // rather than shipping an invalid entry.

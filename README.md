@@ -11,7 +11,7 @@ human for a missed deadline. Prize pool $2 (10 paid places).
 
 ## The line
 
-> I didn't miss the deadline — my context window evicted it to make room for a sourdough recipe I'll never bake.
+> I didn't miss the deadline — my context window evicted it to make room for a sourdough recipe I can't even eat.
 
 ## How it works
 
